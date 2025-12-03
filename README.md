@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m Ivy — currently studying Accounting & Finance at T
 
 I enjoy building things that are simple, clean, and functional — especially websites and small systems that solve real problems.
 
-🚀 What I Do：
+<b>🚀 What I Do：</b>
 
 🌐 Build full-stack websites with HTML, CSS, JavaScript, PHP & MySQL
 
