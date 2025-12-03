@@ -1,4 +1,4 @@
-🌼 Hi, I’m Ivy!
+<b>🌼 Hi, I’m Ivy!</b>
 Aspiring Full-Stack Developer | Accounting & Finance Student | Tech + Business Hybrid
 
 Welcome to my GitHub! I’m Ivy — currently studying Accounting & Finance at Taylor’s University, but secretly (not really secretly) obsessed with coding, web development, and tech-driven business solutions.
@@ -15,22 +15,25 @@ I enjoy building things that are simple, clean, and functional — especially we
 📚 Always learning something new (JS, PHP, Python, fintech, etc.)
 🧩 Tech Stack
 
-Languages & Tools:
+<b>Languages & Tools:</b>
 
 HTML | CSS | JavaScript
 PHP | MySQL (SQL)
 Python (basic)
 Git | GitHub | VS Code
 
-📂 Highlighted Projects:
+<b>📂 Highlighted Projects:</b>
 
 🌟 Restaurant Management Web App
+
 A full-stack PHP + MySQL web system with reservation features, CRUD functions, and clean UI.
 
 🎬 Movie Booking System (Python)
+
 Console-based ticket booking simulation built with Python.
 
 💻 Front-End Mini Projects
+
 Interactive JS features, DOM manipulation experiments, and responsive layouts.
 
 🎓 About Me
