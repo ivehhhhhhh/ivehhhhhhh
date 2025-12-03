@@ -8,6 +8,7 @@ I enjoy building things that are simple, clean, and functional — especially we
 🚀 What I Do：
 
 🌐 Build full-stack websites with HTML, CSS, JavaScript, PHP & MySQL
+
 🛠️ Create CRUD systems and backend logic
 🎨 Design clean UI layouts
 📊 Combine tech knowledge with finance/business thinking
